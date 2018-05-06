@@ -2,7 +2,7 @@
 
 > StartUp Project
 
-## contain package
+## Contain package
 
 <ol>
 <li>JQuery</li>
