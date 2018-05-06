@@ -8,12 +8,3 @@ export const methodGetSelect2Select24GetAll = params => {
     params: params
   })
 }
-
-// dataTable
-export const apiDataTableDataTableGetAll = '/api/DataTable/DataTableGetAll'
-
-export const methodGetDataTableDataTableGetAll = params => {
-  return axios.get(apiDataTableDataTableGetAll, {
-    params: params
-  })
-}

@@ -1,10 +1,21 @@
-# a
+# 專案說明
 
-> A Vue.js project
+> StartUp Project
 
-## Build Setup
+## contain package
 
-``` bash
+<ol>
+<li>JQuery</li>
+<li>Bootstrap 4</li>
+</ol>
+
+```bash
+請小心服用
+```
+
+### Build Setup
+
+```bash
 # install dependencies
 npm install
 
